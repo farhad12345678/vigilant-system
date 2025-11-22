@@ -15,7 +15,8 @@
           "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/md_farhad/256/3477540_2.png"
         }
       },
-      "discord": {
+      "discord": { farhad)
+      
         "id": "852188857293209610",
         "identifier": "discord:852188857293209610",
         "data": {}
